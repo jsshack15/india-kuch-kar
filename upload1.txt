@@ -1,0 +1,31 @@
+<html>
+<head>
+<style>
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h2 { 
+   position: absolute; 
+   top: 200px; 
+   left: 0; 
+   width: 100%; 
+}
+</style>
+</head>
+<body>
+<div class="image">
+
+      <img src="imm.jpg"  />
+
+      <h2>Text you want to display over the image</h2>
+
+</div>
+</body>
+</html>
+
+
+
+
+
